@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import org.sonar.plugins.java.api.CheckRegistrar;
 import org.sonar.plugins.java.api.JavaCheck;
-import org.sonar.template.java.checks.MyFirstCustomCheck;
+import org.sonar.template.java.checks.EmptySemiTrucksCheck;
 
 public class PatternCheckRegistrar implements CheckRegistrar {
 
@@ -15,7 +15,7 @@ public class PatternCheckRegistrar implements CheckRegistrar {
 	}
 
 	public static Class<? extends JavaCheck>[] checkClasses() {
-		return new Class[] { MyFirstCustomCheck.class };
+		return new Class[] { EmptySemiTrucksCheck.class };
 	}
 
 	public static Class<? extends JavaCheck>[] testCheckClasses() {

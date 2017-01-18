@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.version\=6.0
+projectKey=org.sonarsource.samples\:java-custom-rules
+serverUrl=http\://localhost\:9000
+version=2

@@ -1,5 +1,6 @@
-C:\Users\Edmilson\Documents\Sonar\sonar-custom-rules-examples-master\java-custom-rules\src\main\java\org\sonar\template\java\PatternCheckRegistrar.java
-C:\Users\Edmilson\Documents\Sonar\sonar-custom-rules-examples-master\java-custom-rules\src\main\java\org\sonar\template\java\PatternRulePlugin.java
-C:\Users\Edmilson\Documents\Sonar\sonar-custom-rules-examples-master\java-custom-rules\src\main\java\org\sonar\template\java\checks\MyFirstCustomCheck.java
-C:\Users\Edmilson\Documents\Sonar\sonar-custom-rules-examples-master\java-custom-rules\src\main\java\org\sonar\template\java\PatternRuleList.java
-C:\Users\Edmilson\Documents\Sonar\sonar-custom-rules-examples-master\java-custom-rules\src\main\java\org\sonar\template\java\PatternsRuleDefinition.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\checks\EmptySemiTrucksCheck.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\checks\MyFirstCustomCheck.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\PatternsRuleDefinition.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\PatternRulePlugin.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\PatternCheckRegistrar.java
+C:\Users\EdmilsonS\GIT\sonar-rules-antipattern\src\main\java\org\sonar\template\java\PatternRuleList.java
